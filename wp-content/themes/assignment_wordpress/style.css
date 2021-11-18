@@ -1,0 +1,13 @@
+/*
+Theme Name: Assignment Wordpress
+Author: Thevsuman
+Description: THG Asssignment Wordpress
+Version: 1.0.0
+*/
+
+form.wpcf7-form.init {
+    display: grid;
+    grid-template-columns: max-content;
+    grid-row-gap: 10px;
+    grid-column-gap: 20px;
+}
